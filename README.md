@@ -1,6 +1,6 @@
-
+![logo]()
 <h1 align="center">Hi 👋, I'm Sumaiya Habib</h1>
-<h3 align="center">A passionate SQA Engineer from Bangladesh . I am a dedicated SQA Engineer with a passion for ensuring software excellence. I specialize in designing and executing test plans, identifying defects, and collaborating with cross-functional teams to deliver high-quality software solutions. My expertise includes test automation, manual testing,performance testting,api testing and a keen eye for detail to guarantee that software meets both functional and non-functional requirements. I am committed to delivering reliable and bug-free software to enhance user experiences and meet business objectives.</h3>
+<h3 align="center">A passionate SQA Engineer from Bangladesh . I am a dedicated SQA Engineer with a passion for ensuring software excellence. I specialize in designing and executing test plans, identifying defects, and collaborating with  teams. My expertise includes test automation, manual testing,performance testting,api testing and a keen eye for detail to guarantee that software meets both functional and non-functional requirements.</h3>
 
 - 🔭 I’m currently working on **Automation Testing on web applications.**
 
